@@ -1,8 +1,12 @@
 ## What this Repo is for ?
-It contains source code for tutorial published at
-https://medium.com/@mansha99/nextjs-data-fetching-strategies-for-server-side-components-3c66b021e8fa
+
+It contains source code for tutorial published https://medium.com/@mansha99/data-streaming-and-suspense-in-nextjs-80a175cd8306
+
 ### What it demonstrates?
-Using NextJs to create server side component with appropriate data fetching and renedering technique.
+
+Concept of Streaming and Suspense in NextJS
+
+---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
